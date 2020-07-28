@@ -1,1 +1,2 @@
-# crushed-paper
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
